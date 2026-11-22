@@ -1,0 +1,16 @@
+
+{
+  "name": "XYRA.IXV",
+  "version": "1.0.0",
+  "author": "morexzt-arch",
+  "description": "XYRA Growlauncher Script Loader",
+  "scripts": [
+    {
+      "id": "farm",
+      "name": "Farm Script",
+      "description": "Farm automation",
+      "file": "Scripts/farm.lua",
+      "enabled": true
+    }
+  ]
+}
